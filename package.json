@@ -11,7 +11,7 @@
     "react-scripts": "3.0.1",
     "styled-components": "^4.3.2"
   },
-  "homepage": "https://BooleanPanda.github.io/resort",
+  "homepage": "https://BooleanPanda.github.io/beachresort",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
